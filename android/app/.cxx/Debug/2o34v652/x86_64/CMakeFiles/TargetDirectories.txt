@@ -1,0 +1,2 @@
+C:/Users/S I N O/Downloads/flutter project/e_card/android/app/.cxx/Debug/2o34v652/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/S I N O/Downloads/flutter project/e_card/android/app/.cxx/Debug/2o34v652/x86_64/CMakeFiles/rebuild_cache.dir

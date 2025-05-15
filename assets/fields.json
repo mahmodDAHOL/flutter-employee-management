@@ -1,0 +1,8 @@
+[
+  {"fieldName": "id", "type": "id", "label": "الرقم الذاتي"},
+  {"fieldName": "name", "type": "text", "label": "الاسم الكامل"},
+  {"fieldName": "birthDate", "type": "date", "label": "تاريخ الميلاد"},
+  {"fieldName": "gender", "type": "select", "label": "الجنس", "options": ["Male", "Female", "Other"]},
+  {"fieldName": "email", "type": "text", "label": "الايميل"},
+  {"fieldName": "image", "type": "image", "label": "صورة"}
+]
